@@ -1,0 +1,7 @@
+2021-09-25 14:39:30 [ERROR]: log level: info
+2021-09-25 14:39:30 [INFO]: Retrieving AWS endpoint data
+2021-09-25 14:39:30 [INFO]: OS:  Linux x64 4.14.246-187.474.amzn2.x86_64
+2021-09-25 14:39:30 [INFO]: AWS Cloud9 Extension Host Version:  1.42.0AWS Toolkit Version:  1.27.0-6c4644db65c7
+2021-09-25 14:44:30 [INFO]: Successfully sent a telemetry batch of 8
+2021-09-25 14:57:35 [INFO]: autoconnect: connected: 'profile:default'
+2021-09-25 14:57:36 [INFO]: SAM CLI location: /usr/local/bin/sam
